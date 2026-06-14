@@ -1,0 +1,6 @@
+{
+  "name": "Kashan Chatbot",
+  "description": "A highly polished, multi-language premium AI Chatbot designed to help with programming, studies, writing, business ideas, and general queries.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
